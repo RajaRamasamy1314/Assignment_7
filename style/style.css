@@ -21,10 +21,12 @@ body {
   color: white;
   justify-content: center;
 }
+
 .yellowbox {
   background-color: yellow;
   width: 40%;
 }
+
 .imagesection {
   display: flex;
   transform: translate(50%, 0%);
@@ -32,11 +34,13 @@ body {
   height: 60%;
   width: 50%;
 }
+
 label {
   display: block;
   font-size: 14px;
   margin-top: 30px;
 }
+
 input,
 textarea {
   width: 90%;
@@ -48,9 +52,11 @@ textarea {
   background: transparent;
   color: white;
 }
+
 .line {
   width: 30%;
 }
+
 button {
   background-color: #5f9ea0;
   color: white;
@@ -61,6 +67,7 @@ button {
   height: 10%;
   margin-left: 70px;
 }
+
 button:hover {
   background-color: aqua;
 }
